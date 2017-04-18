@@ -1,6 +1,6 @@
 import clearbit
 
-clearbit.key = '95aa9a8ffe61dc6853b56a4f6f8a47b8'
+clearbit.key = '1234567890'
 
 
 emails = [
